@@ -12,19 +12,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+see+and+understand;Computer+Vision+%7C+Machine+Learning+%7C+Data+Engineering;Turned+an+old+phone+into+a+smart+CCTV+%F0%9F%93%B9;Always+learning%2C+always+shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+see+and+understand;Computer+Vision+%7C+ML+%7C+Data+Engineering;Turned+an+old+phone+into+a+smart+CCTV+%F0%9F%93%B9;Always+learning%2C+always+shipping" />
 </p>
 
 ---
 
-### 🧠 About Me
+###  About Me
 
-- 🎓 BTech in **AI & Data Science**, KCG College of Technology (Anna University) — GPA 8.6
-- 💼 Currently exploring roles as an **AI Data Analyst**, with hands-on experience building **cloud data pipelines** at SaturnPyro
-- 🔭 Focused on **Solving Day to Day problems**
-- 📄 Co-authored a research paper on **AI-driven patient well-being monitoring through facial video analysis**, presented at **ICOSEC 2024**
-- 🛠️ Built an end-to-end **AI CCTV system** from a repurposed Redmi 5A — real-time object detection & alerting
-- 🌱 Believer in **fluid intelligence** — always adapting, always building
+-  BTech in **AI & Data Science**, KCG College of Technology (Anna University) — GPA 8.6
+-  Currently exploring roles as an **AI Data Analyst**, with hands-on experience building **cloud data pipelines** at SaturnPyro
+-  Focused on **Solving Day to Day problems**
+-  Co-authored a research paper on **AI-driven patient well-being monitoring through facial video analysis**, presented at **ICOSEC 2024**
+-  Built an end-to-end **AI CCTV system** from a repurposed Redmi 5A — real-time object detection & alerting
+-  Believer in **fluid intelligence** — always adapting, always building
 
 ---
 
@@ -61,13 +61,13 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-**📹 [AI CCTV Detection](https://github.com/abdulmukthadir/project-CCTV)**
+** [AI CCTV Detection](https://github.com/abdulmukthadir/project-CCTV)**
 Turned an old Redmi 5A into a smart security camera with real-time object detection and alert generation using Python & OpenCV.
 `Python` `OpenCV` `Computer Vision`
 
@@ -90,7 +90,7 @@ A feature-rich notes app with React JS, Tailwind CSS, React Router, and localSto
 </td>
 <td width="50%">
 
-**🛒 [E-commerce Website](https://github.com/abdulmukthadir/e-commerce-website)**
+** [E-commerce Website](https://github.com/abdulmukthadir/e-commerce-website)**
 Fully responsive e-commerce storefront, optimized for all devices.
 `HTML` `CSS` `JavaScript`
 
