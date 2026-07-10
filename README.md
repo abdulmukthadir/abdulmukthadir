@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdul Mukthadir 👋</h1>
-<h3 align="center">AI / Data Science Engineer — Computer Vision • ML • Cloud Data Pipelines</h3>
+<h3 align="center">AI / Data Science Engineer — Data Analysis • Web Creation • Cloud Data Pipelines</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulmukthadir">
@@ -21,11 +21,10 @@
 
 - 🎓 BTech in **AI & Data Science**, KCG College of Technology (Anna University) — GPA 8.6
 - 💼 Currently exploring roles as an **AI Data Analyst**, with hands-on experience building **cloud data pipelines** at SaturnPyro
-- 🔭 Focused on **computer vision, scene understanding, and model evaluation workflows**
+- 🔭 Focused on **Solving Day to Day problems**
 - 📄 Co-authored a research paper on **AI-driven patient well-being monitoring through facial video analysis**, presented at **ICOSEC 2024**
 - 🛠️ Built an end-to-end **AI CCTV system** from a repurposed Redmi 5A — real-time object detection & alerting
 - 🌱 Believer in **fluid intelligence** — always adapting, always building
-- ⚡ Fun fact: I've turned old hardware into smart AI devices more than once
 
 ---
 
@@ -48,11 +47,11 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Cloud & Pipelines**
-![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Kinesis](https://img.shields.io/badge/-Kinesis-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Redshift](https://img.shields.io/badge/-Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+![AWS Lambda] (https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![S3] (https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Kinesis ](https://img.shields.io/badge/-Kinesis-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![DynamoDB] (https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Redshift] (https://img.shields.io/badge/-Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
