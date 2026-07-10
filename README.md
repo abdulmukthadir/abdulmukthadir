@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abdul Mukthadir 👋</h1>
-<h3 align="center">AI / Data Science Engineer — Data Analysis • Web Creation • Cloud Data Pipelines</h3>
+<h3 align="center">AI / Data Science Engineer — Computer Vision • ML • Cloud Data Pipelines</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulmukthadir">
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+see+and+understand;Computer+Vision+%7C+ML+%7C+Data+Engineering;Turned+an+old+phone+into+a+smart+CCTV+%F0%9F%93%B9;Always+learning%2C+always+shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+see+and+understand;Computer+Vision+%7C+Machine+Learning+%7C+Data+Engineering;Turned+an+old+phone+into+a+smart+CCTV+%F0%9F%93%B9;Always+learning%2C+always+shipping" />
 </p>
 
 ---
@@ -21,10 +21,11 @@
 
 -  BTech in **AI & Data Science**, KCG College of Technology (Anna University) — GPA 8.6
 -  Currently exploring roles as an **AI Data Analyst**, with hands-on experience building **cloud data pipelines** at SaturnPyro
--  Focused on **Solving Day to Day problems**
+-  Focused on **computer vision, scene understanding, and model evaluation workflows**
 -  Co-authored a research paper on **AI-driven patient well-being monitoring through facial video analysis**, presented at **ICOSEC 2024**
 -  Built an end-to-end **AI CCTV system** from a repurposed Redmi 5A — real-time object detection & alerting
 -  Believer in **fluid intelligence** — always adapting, always building
+
 
 ---
 
@@ -61,39 +62,35 @@
 
 ---
 
-###  Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
-
-** [AI CCTV Detection](https://github.com/abdulmukthadir/project-CCTV)**
-Turned an old Redmi 5A into a smart security camera with real-time object detection and alert generation using Python & OpenCV.
-`Python` `OpenCV` `Computer Vision`
-
+<td width="50%" valign="top">
+<h4>📹 <a href="https://github.com/abdulmukthadir/project-CCTV">AI CCTV Detection</a></h4>
+Turned an old Redmi 5A into a smart security camera with real-time object detection and alert generation using Python &amp; OpenCV.
+<br/><br/>
+<code>Python</code> <code>OpenCV</code> <code>Computer Vision</code>
 </td>
-<td width="50%">
-
-**📊 [STEDI Human Balance Analytics](https://github.com/abdulmukthadir/STEDI-Human-Balance-Analytics)**
+<td width="50%" valign="top">
+<h4>📊 <a href="https://github.com/abdulmukthadir/STEDI-Human-Balance-Analytics">STEDI Human Balance Analytics</a></h4>
 Built a data lakehouse on AWS from sensor + mobile app data to support ML model training for balance analytics.
-`AWS` `Data Lakehouse` `Python`
-
+<br/><br/>
+<code>AWS</code> <code>Data Lakehouse</code> <code>Python</code>
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-**📝 [Notes Website](https://github.com/abdulmukthadir/Notes-website)**
+<td width="50%" valign="top">
+<h4>📝 <a href="https://github.com/abdulmukthadir/Notes-website">Notes Website</a></h4>
 A feature-rich notes app with React JS, Tailwind CSS, React Router, and localStorage persistence.
-`React` `Tailwind CSS`
-
+<br/><br/>
+<code>React</code> <code>Tailwind CSS</code>
 </td>
-<td width="50%">
-
-** [E-commerce Website](https://github.com/abdulmukthadir/e-commerce-website)**
+<td width="50%" valign="top">
+<h4>🛒 <a href="https://github.com/abdulmukthadir/e-commerce-website">E-commerce Website</a></h4>
 Fully responsive e-commerce storefront, optimized for all devices.
-`HTML` `CSS` `JavaScript`
-
+<br/><br/>
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
 </td>
 </tr>
 </table>
@@ -103,8 +100,8 @@ Fully responsive e-commerce storefront, optimized for all devices.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulmukthadir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmukthadir&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulmukthadir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmukthadir&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
