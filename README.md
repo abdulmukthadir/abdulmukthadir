@@ -1,18 +1,18 @@
 <h1 align="center">Hi, I'm Abdul Mukthadir 👋</h1>
-<h3 align="center">AI / Data Science Engineer — Computer Vision • ML • Cloud Data Pipelines</h3>
+<h3 align="center">AI / Data Science Engineer —  ML • Cloud Data Pipelines</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulmukthadir">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:mukthadir.w@gmail.com">
+  <a href="mailto:abdul.linuxmint@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Chennai%2C%20India-000000?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+see+and+understand;Computer+Vision+%7C+Machine+Learning+%7C+Data+Engineering;Turned+an+old+phone+into+a+smart+CCTV+%F0%9F%93%B9;Always+learning%2C+always+shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+see+and+understand;Computer+Vision+%7C+ML+%7C+Data+Engineering;Turned+an+old+phone+into+a+smart+CCTV+%F0%9F%93%B9;Always+learning%2C+always+shipping" />
 </p>
 
 ---
@@ -109,7 +109,7 @@ Fully responsive e-commerce storefront, optimized for all devices.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdulmukthadir"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:mukthadir.w@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=flat-square&logo=gmail" /></a>
+  <a href="mailto:abdul.linuxmint@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-red?style=flat-square&logo=gmail" /></a>
 </p>
 
 <p align="center"><i>"Believing in Fluid Intelligence."</i></p>
