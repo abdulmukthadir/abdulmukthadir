@@ -100,16 +100,7 @@ Fully responsive e-commerce storefront, optimized for all devices.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulmukthadir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmukthadir&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmukthadir&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulmukthadir&theme=tokyo-night&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/abdulmukthadir/abdulmukthadir/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
