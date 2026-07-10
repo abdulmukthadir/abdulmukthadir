@@ -47,11 +47,11 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Cloud & Pipelines**
-![AWS Lambda] (https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![S3] (https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Kinesis ](https://img.shields.io/badge/-Kinesis-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![DynamoDB] (https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![Redshift] (https://img.shields.io/badge/-Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Kinesis](https://img.shields.io/badge/-Kinesis-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Redshift](https://img.shields.io/badge/-Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
